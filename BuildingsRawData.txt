@@ -1,0 +1,255 @@
+LeedsHouse:
+
+Lat: 45.387996
+
+Long: -75.698756
+
+Dundas House:
+
+Lat: 45.387917
+
+Long: -75.697635
+
+
+St Patricks Building:
+
+Lat: 45.387528 
+
+Long: -75.698187
+
+Dundas House:
+
+Lat: 45.387977
+
+Long:-75.697491
+
+Stormont House:
+
+Lat: 45.387604
+
+Long: -75.697078
+
+Carleton Univeristy Art Gallery
+
+Lat: 45.387235
+
+Long:-75.698456
+
+Residence Commons
+
+Lat: 45.387103
+
+Long: -75.697217
+
+Russel House:
+
+Lat: 45.386907
+
+Long: -75.698445
+
+GlengarryHouse:
+
+Lat: 45.386688
+
+Long: -75.69726
+
+Grenville House:
+
+Lat: 45.38642
+
+Long: -75.69726
+
+Frontenac House:
+
+Lat: 45.386033
+
+Long: -75.698349
+
+Renfrew House:
+
+Lat: 45.386688
+
+Long: -75.69726
+
+Lanark House:
+
+Lat: 45.385709
+
+Long: -75.698209
+
+Prescot House:
+
+Lat: 45.385709
+
+Long: -75.696997
+
+
+Minto Center:
+
+Lat: 45.385098
+
+Long: -75.696976
+
+
+Mackenzie Building:
+
+Lat: 45.384997
+
+Long: -75.697888
+
+
+Canal Building:
+
+Lat: 45.384126
+
+Long: -75.698606
+
+
+Architecture Building:
+
+Lat: 45.384002
+
+Long: -75.697405
+
+
+Azrieli Theatre:
+
+Lat: 45.383162,
+
+Long: -75.69858
+
+
+Azrieli Pavilion:
+
+Lat: 45.382845
+
+Long: -75.699003
+
+
+Tory Building:
+
+Lat: 45.382646
+
+Long: -75.698065
+
+
+Steacie Building:
+
+Lat: 45.382776
+
+Long: -75.696876
+
+Dunton Tower:
+
+Lat: 45.382555
+
+Long: -75.699247
+
+HerzBerg Labratories:
+
+Lat: 45.382058
+
+long: -75.697598
+
+MacOdrum Library:
+
+Lat: 45.381945 
+
+Long: -75.699502
+
+Paterson Hall:
+
+Lat: 75.699502
+
+Long: -75.698606
+
+Southham Hall
+
+Lat: 45.381184,
+
+Long: -75.699518
+
+
+Life Sciences Research Building:
+
+45.381149
+
+-75.698172
+
+Loeb Building:
+
+45.380999
+
+-75.698869
+
+Human Computer Interaction:
+
+45.380656,
+
+-75.699508
+
+Social Sciences Research Building:
+
+45.380381
+
+-75.699958
+
+Visualzation and Simulation Bldg
+
+45.380464
+
+-75.700371
+
+Robertson Hall
+45.383343
+
+-75.694245
+
+Maintenence Building:
+
+45.384138
+
+-75.694546
+
+Nesbitt Biology Building:
+45.383953
+
+-75.69329
+
+National WildLife Research Center
+
+45.3841
+
+-75.692711
+
+CUltureWorks Techonology and Training ctr
+45.384435
+
+-75.693623
+
+COlonel By Child Center
+45.385528]
+
+-75.694116
+
+Ice House
+45.385912
+-75.692539
+
+Physical Recreation Center:
+45.386312
+-75.693939
+
+Alumni Hall:
+45.386436
+-75.693161
+
+Field House
+45.386835
+-75.694368
+
+
+
+
+
+
